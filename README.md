@@ -2,6 +2,10 @@
 
 Local food rescue platform connecting donors, verified NGOs, and volunteers in Chennai. SmartFood does not inspect or certify food safety; donors and receiving organisations are responsible for safe preparation, storage, and receipt.
 
+## Live deployment
+
+Visit the deployed app: <https://smart-food-waste-management-hini.onrender.com/>
+
 ## Prerequisites
 
 - Node.js 20 or newer (tested with Node 24.15.0)
